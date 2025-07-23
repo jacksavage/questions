@@ -1,1 +1,1 @@
-Web app that cycles through questions.
+web app that cycles through questions
